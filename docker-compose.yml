@@ -1,0 +1,26 @@
+version: '3'
+services:
+  backend:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    ports:
+      - 8000:8000
+
+  frontend:
+    build:
+      context: ./sys-stats
+      dockerfile: Dockerfile
+    ports:
+      - 80:80
+
+  proxy:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 8081:80
+    depends_on:
+      - backend
+      - frontend
+
