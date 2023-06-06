@@ -2,7 +2,11 @@
 
 DevOps-Assignment
 
-In this repo, you will find a simple Python - Flask Web App, which reads the current RAM and CPU usage and a React frontend which shows the statistics in the browser.
+In this repo, you will find a simple Python - Flask Web App, which reads the current RAM and CPU usage and a React frontend which shows the statistics in the browser.  
+  
+  
+![](./img/readme.jpg)  
+ 
 
 ## How to run?
 
@@ -55,6 +59,3 @@ The only hard-requirement is to get the app to work with `minikube`
 * _ease of use
 * _quality of the documentation provided with the code  
   
-  
-  
-![](./img/readme.jpg)
