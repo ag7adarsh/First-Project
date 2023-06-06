@@ -9,6 +9,6 @@ If you have not installed terraform then, [click here](https://developer.hashico
   
 > terraform apply –auto-approve  
   
-you will see the __Public IP__ address of the instance in the console after successful execution of the above command. You enter the following URL to check for display of  
+you will see the __Public_IP__ address of the instance in the console after successful execution of the above command. You enter the following URL to check for display of  
   
   > __Public_IP__:8080/stats
