@@ -53,4 +53,8 @@ The only hard-requirement is to get the app to work with `minikube`
 **This assignment will be evaluated based on the
 * _best practices
 * _ease of use
-* _quality of the documentation provided with the code
+* _quality of the documentation provided with the code  
+  
+  
+  
+![](./img/readme.jpg)
