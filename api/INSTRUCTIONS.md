@@ -8,4 +8,8 @@ Run the follwoing command to run the above created image in a container.
 > __docker run --name api-container api-image:1.0__
 
 Run the follwoing connand to view the running container locally-  
-> __docker ps OR docker conatiner ls__
+> __docker ps__
+   
+OR  
+
+> __docker conatiner ls
