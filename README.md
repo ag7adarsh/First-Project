@@ -47,7 +47,8 @@ Separate out the two containers into separate pods, communicate between the two 
 
 Add all the deployments, services and volume (if any) yaml files in the repo.
 
-The only hard-requirement is to get the app to work with `minikube`
+The only hard-requirement is to get the app to work with `minikube`  
+
 
 **_This assignment will be evaluated based on the
 * _best practices
