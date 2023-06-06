@@ -1,6 +1,6 @@
 ## To test the Dockerfile written in Dockerfile, you can follwo the following steps:
 
-Run the following command to build the iamge-
+Run the following command to build the iamge-  
 docker build -t api-image:1.0 .
  
 Run the follwoing command to run the above created image in a container.
