@@ -12,4 +12,4 @@ Run the follwoing connand to view the running container locally-
    
 OR  
 
-> __docker conatiner ls__
+> __docker container ls__
