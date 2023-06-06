@@ -11,4 +11,4 @@ If you have not installed terraform then, [click here](https://developer.hashico
   
 you will see the **Public IP** address of the instance in the console after successful execution of the above command. You enter the following URL to check for display of  
   
- > <Public IP>:8080/stats
+ >  <Public IP>:8080/stats
