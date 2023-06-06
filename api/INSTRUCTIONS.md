@@ -1,4 +1,4 @@
-## To test the Dockerfile, you can follwo the following steps:
+## To test the Dockerfile, you can follow the steps mentioned below:
 
 Run the following command to build the iamge-  
 
