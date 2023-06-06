@@ -5,7 +5,7 @@ If you have not installed terraform then, [click here](https://developer.hashico
 ## You are few steps away to run the application
 ### Run follow the commands in your command prompt or terminal:  
 
-> Git clone <URL>  
+> Git clone https://github.com/mahadevmt93/First-Project.git    
   
 > terraform apply –auto-approve  
   
