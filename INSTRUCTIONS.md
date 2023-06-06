@@ -1,0 +1,11 @@
+# How to run the application?
+## Prerequisites: 
+Make sure that Terrform has been installed on your system. 
+If you have not installed terraform then, click here to go through the documentation for installation.
+## You are few steps away to run the application
+**Run follow the commands in your command prompt or terminal:
+Git clone <URL>
+cd <dir>
+terraform apply –auto-approve
+you will see the public IP address of the instance in the console after successful execution of the above command. You enter the following URL to check for display of
+<Public IP>:8080/stats
