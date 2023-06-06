@@ -1,7 +1,6 @@
 ## To test the Dockerfile, you can follow the steps mentioned below:
 
 Run the following command to build the iamge-  
-
 __docker build -t api-image:1.0 .__
 
  
