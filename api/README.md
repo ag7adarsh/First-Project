@@ -1,4 +1,4 @@
-##To test the Dockerfile written in Dockerfile, you can follwo the following steps:##
+##To test the Dockerfile written in Dockerfile, you can follwo the following steps:
 
 Run the following command to build the iamge-
 docker build -t api-image:1.0 .
