@@ -54,8 +54,8 @@ Add all the deployments, services and volume (if any) yaml files in the repo.
 The only hard-requirement is to get the app to work with `minikube`  
 
 
-**This assignment will be evaluated based on the
-* _best practices
-* _ease of use
-* _quality of the documentation provided with the code  
+### This assignment will be evaluated based on the
+* best practices
+* ease of use
+* quality of the documentation provided with the code  
   
