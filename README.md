@@ -1,3 +1,7 @@
+# What is this?
+In this repo, you will find a simple Python - Flask Web App, which reads the current RAM and CPU usage and a React frontend which shows the statistics in the browser.
+![](./img/readme.jpg)
+
 # How to run the application?
 ## Prerequisites: 
 Make sure that Terrform has been installed on your system. 
